@@ -26,3 +26,11 @@ Para fazer a leitura da glicose, basta escanear o sensor com o leitor – um pro
 
 #### Faça a leitura
 Cada leitura do sensor fornece dados atualizados da glicose, o histórico glicêmico das últimas 8 horas e uma seta de tendência mostrando se a glicose está subindo, baixando ou mudando lentamente. O leitor é capaz de ler o sensor mesmo através da roupa2.
+
+
+##Hardware
+
+![Screenshot](HW-FreestyleSensorLibre/draw_1116_1.png)
+
+##Fita de Leitura
+![Screenshot](HW-FreestyleSensorLibre/draw_1116-40.png)
