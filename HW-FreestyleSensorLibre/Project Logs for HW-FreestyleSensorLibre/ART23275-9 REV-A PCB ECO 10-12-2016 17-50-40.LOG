@@ -1,0 +1,9 @@
+Added Component: Designator=BT1(BAT - V377)
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Net: Name=GND
+Added Pin To Net: NetName=VBAT Pin=BT1-1
+Added Pin To Net: NetName=VBAT Pin=BT1-1
+Added Pin To Net: NetName=VBAT Pin=U1-4
+Added Net: Name=VBAT
+Added Member To Class: ClassName=Main Member=Component BT1 Bateria
