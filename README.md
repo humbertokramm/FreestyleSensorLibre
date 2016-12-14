@@ -45,6 +45,21 @@ Cada leitura do sensor fornece dados atualizados da glicose, o histórico glicê
 
 [Moreira, Cleumar S., et al. "Biossensores: Tecnologia e Aplicações." V Congresso Norte Nordeste de Pesquisa e Inovação [online]. 2010.](http://www.biologia.seed.pr.gov.br/arquivos/File/biotecnologia/biosensores.pdf)
 
+##Referências em inglês
+
+[Pierre Vandevenne](https://plus.google.com/+PierreVandevenne)
+
+Medical Doctor turned IT Security specialist
+
+[Type I Diabetes, Coeliac Disease, Tennis](http://type1tennis.blogspot.com.br)
+
+[about Microcontroler](http://type1tennis.blogspot.com.br/2015/01/freestyle-libre-raw-data-ti-update.html)
+
+[about Sensor](http://type1tennis.blogspot.com.br/2015_01_01_archive.html)
+
+
+[Cengiz, Eda, and William V. Tamborlane. "A tale of two compartments: interstitial versus blood glucose monitoring." Diabetes technology & therapeutics 11.S1 (2009): S-11.](http://online.liebertpub.com/doi/abs/10.1089/dia.2009.0002)
+
 ##Hardware de Prototipação Rápido (LaunchPad)
 
 [RF430FRL152HEVM](http://www.ti.com/tool/RF430FRL152HEVM)
