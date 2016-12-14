@@ -4,7 +4,8 @@ Este projeto destina-se a popularizar os estudos na área de monitoramento de Gl
 O objetivo aqui não é copiar o sensor para produzir no Brasil e nem violar nenhuma patente. A idéia é apenas que engenheiros brasileiros se interessem por esta área que é muito potencial e devido a falta de concorrência permite que empresas que detem o monopólio não se preocupem distribuir esses produtos de forma mais acessível.
 
 Ao longo do tempo publicarei Esquemáticos, Firmware e métodos para cálculo de Glicóse a partir do Chip [RF430TAL152H](http://www.ti.com/product/RF430FRL152H/technicaldocuments) da Texas através do ADC.
-OBS> O microcontrolador usado neste produto é o RF430TAL152H, a Texas comercializa com o nome RF430RFL152H. Essa sutil diferença aparentava ser apenas uma nomenclatura para distinguir o lote dedicado a este produto. Entretanto, analisando o circuito elétrico, as conexões dos pinos do microcontrolador não parecem ser iguais. Isso pode dificultar a utilização do hardware original para testes de firmware, mas não impedir.
+
+OBS: O microcontrolador usado neste produto é o RF430TAL152H, a Texas comercializa com o nome RF430RFL152H. Essa sutil diferença aparentava ser apenas uma nomenclatura para distinguir o lote dedicado a este produto. Entretanto, analisando o circuito elétrico, as conexões dos pinos do microcontrolador não parecem ser iguais. Isso pode dificultar a utilização do hardware original para testes de firmware, mas não impedir.
 
 
 Quem estiver interessado em colaborar entre em contato.
